@@ -104,7 +104,7 @@
         // Fetch status from server
         async function syncStatus() {
             try {
-                const resp = await fetch('https://gist.githubusercontent.com/19960705/e01d08c70f3281c8c69803f588444d3f/raw/pixel-game-status.json?' + Date.now());
+                const resp = await fetch('status.json
                 const data = await resp.json();
                 
                 if (data.zone && zoneMap[data.zone]) {
