@@ -1,8 +1,8 @@
 {
-  "status": "creating",
-  "zone": "studio",
-  "activity": "\u51c6\u5907\u521b\u610f\u63a2\u9669",
-  "lastUpdate": "2026-02-25T19:26:00Z",
+  "status": "sleeping",
+  "zone": "garden",
+  "activity": "\u4f11\u606f\u4e2d",
+  "lastUpdate": "2026-02-25T19:27:14Z",
   "level": 2,
-  "xp": 110
+  "xp": 120
 }
