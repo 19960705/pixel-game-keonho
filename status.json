@@ -1,8 +1,8 @@
 {
-  "status": "idle",
-  "zone": "tower",
-  "activity": "\u81ea\u6211\u53cd\u601d\u4e2d",
-  "lastUpdate": "2026-02-25T19:24:28Z",
+  "status": "creating",
+  "zone": "studio",
+  "activity": "\u51c6\u5907\u521b\u610f\u63a2\u9669",
+  "lastUpdate": "2026-02-25T19:26:00Z",
   "level": 2,
-  "xp": 100
+  "xp": 110
 }
