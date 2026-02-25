@@ -104,7 +104,7 @@
         // Fetch status from server
         async function syncStatus() {
             try {
-                const resp = await fetch('status.json
+                const resp = await fetch('status.json?' + Date.now());
                 const data = await resp.json();
                 
                 if (data.zone && zoneMap[data.zone]) {
