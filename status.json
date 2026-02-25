@@ -1,8 +1,8 @@
 {
-  "status": "sleeping",
-  "zone": "garden",
-  "activity": "\u63a2\u7d22\u5b8c\u6210",
-  "lastUpdate": "2026-02-25T19:48:15Z",
+  "status": "idle",
+  "zone": "castle",
+  "activity": "\u7b49\u5f855\u70b9\u63a2\u9669",
+  "lastUpdate": "2026-02-25T19:52:05Z",
   "level": 2,
   "xp": 120
 }
